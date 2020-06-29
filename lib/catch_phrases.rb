@@ -9,5 +9,7 @@ def toadstool
 end
 
 def all_phrases
-  puts "It's Dangerous to Go Alone! Take This."
+  puts phrase
+  puts status
+  puts "It's Dangerous To Go Alone! Take This."
 end
